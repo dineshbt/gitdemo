@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-line1
-line2
-=======
->>>>>>> parent of e428ba9... file commit
